@@ -1,0 +1,25 @@
+.message1{
+    padding: 1px;
+    margin:3px;
+    width: fit-content;
+    border: 1px solid white;
+    border-radius: 10px;
+    background-color: brown;
+    /* background-color: grey; */
+    /* color: aliceblue; */
+
+}
+.message_user{
+    margin-left: auto;
+    color: black;
+    text-align: right;
+    background-color: aqua;
+}
+.message_userCard{
+    background-color: aqua;
+    color: aliceblue;
+}
+.message_guestcard{
+    background-color: brown;
+    color: aliceblue;
+}

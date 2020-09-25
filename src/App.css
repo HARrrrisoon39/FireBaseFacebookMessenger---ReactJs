@@ -1,0 +1,21 @@
+.App {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+.app_form {
+  padding: 20px;
+  position: fixed;
+  bottom: 0px;
+  z-index: 1;
+  width: 97%;
+  background-color: rgb(216, 207, 207);
+  /* border-radius: 20px; */
+  /* margin: 20px; */
+}
+.input{
+
+  display: flex !important;
+  flex: 0;
+  flex-direction: row;
+}
